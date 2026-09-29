@@ -1,0 +1,2 @@
+# Core Backend Services (Node.js / NestJS)
+Contains API Gateway, Workout Service, Nutrition Service, and Social Service logic.
