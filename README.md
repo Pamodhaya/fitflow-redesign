@@ -1,5 +1,4 @@
 # fitflow-redesign
-# fitflow-redesign
 
 **Module**: IT3060 - Human Computer Interaction  
 **Lab Exercise**: 05  
